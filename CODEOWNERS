@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @gartox
+/src/backend/database.py      @gartox
+/src/backend/routers/auth.py  @gartox
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @gartox
